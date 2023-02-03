@@ -1,0 +1,12 @@
+step 1: start
+step 2: enter number n,sum=0
+step 3: for(i=0;i<=n;i++){
+    if(i%2==0){
+        sum=sum+i;
+    }
+    else{
+        goto the step 3
+    }
+}
+step 4: print sum
+step 5: end

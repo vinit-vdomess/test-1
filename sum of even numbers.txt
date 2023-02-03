@@ -9,4 +9,5 @@ step 3: for(i=0;i<=n;i++){
     }
 }
 step 4: print sum
+
 step 5: end
